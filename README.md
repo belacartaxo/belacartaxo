@@ -3,7 +3,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=belacartaxo&bg_color=171626&color=d93d86&line=d93d86&point=a2f2ea&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=belacartaxo&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=belacartaxo&show_icons=true&theme=radical&hide_border=true" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belacartaxo&layout=compact&theme=radical&hide_border=true" />
 </div>
 
