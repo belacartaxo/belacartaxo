@@ -9,7 +9,7 @@
 
 <div align="center"> 
   <a href = "mailto:isabelacartaxo.work@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/isabela-cartaxo-7a61b6264/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "#"> <img src="https://img.shields.io/badge/Portfolio-D93D86?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAgklEQVR4nO2RywmAMBAFLUAbEVsQe/BTiCcr8aYWpvZhbuMlYECCGrMI6sC7hLc7LAmCHx9gwcsSV74pWIBOR0kIcqNbSghCoxtJCAqjW0kIFNADg8QfzEAL1DqtfrstGIF0V95mMmC6I4hty425xFlwtPzSrOWC5mScBc68UPDzGCvKwIprlhIWMgAAAABJRU5ErkJggg==" target="_blank"></a>
  <a href = "#"> <img src="https://img.shields.io/badge/Curriculum-207D8C?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAgUlEQVR4nN3UQQqAIBBAUa/SbbJO2rHU1l3hR2EQFGbTJNYHwY0+daExvwvogMD9AmBzAMnmWz4HWBPcfK1OAOiBMfXOT4Fw9c7VAzYiHmjVgZzEANAAAzDFscwbTcBxzGkCp6kB6lUJkOgbwK1K3CCkFuyTAjb+OZeZUr1+iBQwA/PBy/16qAQjAAAAAElFTkSuQmCC" target="_blank"></a>
 </div>
