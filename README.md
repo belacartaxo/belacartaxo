@@ -1,9 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D93D86&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Isabela+Cartaxo;I'm+19+years+old;I'm+from+Brazil;I'm+a+front-end+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D93D86&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Isabela+Cartaxo;I'm+20+years+old;I'm+from+Brazil;I'm+a+AI+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=belacartaxo&show_icons=true&theme=radical&hide_border=true" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belacartaxo&layout=compact&theme=radical&hide_border=true" />
-</div>
 
 <div align="center"> 
   <a href = "mailto:isabelacartaxo.work@gmail.com"  target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -17,13 +13,10 @@
   <img align="center" alt="Icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Icon-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Icon-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 
 ### Studying in this moment:
 <div style="display: inline_block"> 
-  <img align="center" alt="Icon-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Icon-jQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" /> 
-  <img align="center" alt="Icon-ReactJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Icon-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 </div>
-
-![snake gif](https://github.com/belacartaxo/belacartaxo/blob/output/github-contribution-grid-snake.svg)
