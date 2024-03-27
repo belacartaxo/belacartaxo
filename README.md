@@ -17,7 +17,7 @@
   <img align="center" alt="Icon-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 
-### Studying in this moment:
+### Studying at the moment:
 <div style="display: inline_block"> 
   <img align="center" alt="Icon-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 </div>
