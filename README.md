@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7754D0&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Isabela+Cartaxo;I'm+an+AI+and+data+science+student!;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
 <div align="center"> 
   <a href = "mailto:isabelacartaxo.work@gmail.com"  target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/isabela-cartaxo-7a61b6264/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
